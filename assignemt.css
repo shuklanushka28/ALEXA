@@ -1,0 +1,60 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; 
+}
+.image{
+    height: 20px;
+}
+.heading{
+    display: flex;
+    
+    
+}
+.heading > li{
+    list-style: none;
+    padding: 10px;
+
+}
+.heading > li:hover{
+    font-weight: bold
+}
+.content{
+    display: flex;
+    
+}
+.text{
+    align-items:flex-start;
+    text-align: start;
+}
+.text > li{
+    list-style: none;
+}
+.welcome{
+    font-size:500%;
+    font-stretch: expanded;
+    font-weight: 200;
+}
+.name{
+    font-size: 700%;
+}
+
+.mountain{
+    height: 300px;
+    margin-bottom: 100px;
+    position: relative;
+    bottom: -300px;
+    right: 0%;
+}
+.button{
+    display: flex;
+    list-style: none;
+}
+.click{
+    align-items: flex-start;
+    padding: 10px;
+}
+.here{
+    padding: 10px;
+}
