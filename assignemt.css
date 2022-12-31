@@ -46,14 +46,18 @@
     font-size: 700%;
     padding: -100px;
 }
+.divide{
+    display: flex;
+}
 
 .mountain{
-    height: 271px;
-    margin-bottom: 100px;
+    height: 500px;
+    align-content:flex-end ;
     position: relative;
-    bottom: -300px;
-    right: 0%;
-    top:50;
+    
+    align-items: flex-start;
+    
+    
 }
 .button{
     display: flex;
